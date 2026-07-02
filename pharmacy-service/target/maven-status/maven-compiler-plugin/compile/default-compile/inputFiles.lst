@@ -7,6 +7,7 @@ C:\cungh\rikkei\module-4\session10\pharmacy-service\src\main\java\com\rikkeiedu\
 C:\cungh\rikkei\module-4\session10\pharmacy-service\src\main\java\com\rikkeiedu\pharmacyservice\event\OrderEvent.java
 C:\cungh\rikkei\module-4\session10\pharmacy-service\src\main\java\com\rikkeiedu\pharmacyservice\event\OrderEventConsumer.java
 C:\cungh\rikkei\module-4\session10\pharmacy-service\src\main\java\com\rikkeiedu\pharmacyservice\controller\InventoryController.java
+C:\cungh\rikkei\module-4\session10\pharmacy-service\src\main\java\com\rikkeiedu\pharmacyservice\event\NotificationConsumer.java
 C:\cungh\rikkei\module-4\session10\pharmacy-service\src\main\java\com\rikkeiedu\pharmacyservice\controller\PatientController.java
 C:\cungh\rikkei\module-4\session10\pharmacy-service\src\main\java\com\rikkeiedu\pharmacyservice\controller\WelcomeController.java
 C:\cungh\rikkei\module-4\session10\pharmacy-service\src\main\java\com\rikkeiedu\pharmacyservice\service\InsuranceService.java
@@ -18,3 +19,4 @@ C:\cungh\rikkei\module-4\session10\pharmacy-service\src\main\java\com\rikkeiedu\
 C:\cungh\rikkei\module-4\session10\pharmacy-service\src\main\java\com\rikkeiedu\pharmacyservice\repository\PatientRepository.java
 C:\cungh\rikkei\module-4\session10\pharmacy-service\src\main\java\com\rikkeiedu\pharmacyservice\PharmacyServiceApplication.java
 C:\cungh\rikkei\module-4\session10\pharmacy-service\src\main\java\com\rikkeiedu\pharmacyservice\repository\MedicineRepository.java
+C:\cungh\rikkei\module-4\session10\pharmacy-service\src\main\java\com\rikkeiedu\pharmacyservice\service\BatchService.java
