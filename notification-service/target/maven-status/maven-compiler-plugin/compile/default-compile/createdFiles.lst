@@ -1,0 +1,3 @@
+com\rikkeiedu\notificationservice\event\NotificationEventConsumer.class
+com\rikkeiedu\notificationservice\NotificationServiceApplication.class
+com\rikkeiedu\notificationservice\event\OrderEvent.class
