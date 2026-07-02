@@ -1,0 +1,3 @@
+[submodule "medical-config-repo"]
+	path = medical-config-repo
+	url = https://github.com/ltvhcung001/medical-config-repo.git

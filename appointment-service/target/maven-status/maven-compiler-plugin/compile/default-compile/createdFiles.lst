@@ -1,0 +1,8 @@
+com\rikkeiedu\appointmentservice\controller\InsuranceController.class
+com\rikkeiedu\appointmentservice\dto\ApiResponseError.class
+com\rikkeiedu\appointmentservice\repository\AppointmentRepository.class
+com\rikkeiedu\appointmentservice\controller\AppointmentController.class
+com\rikkeiedu\appointmentservice\config\WebConfig.class
+com\rikkeiedu\appointmentservice\AppointmentServiceApplication.class
+com\rikkeiedu\appointmentservice\entity\Appointment.class
+com\rikkeiedu\appointmentservice\service\AppointmentService.class
