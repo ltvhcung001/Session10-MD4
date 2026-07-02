@@ -1,0 +1,14 @@
+com\rikkeiedu\patientservice\controller\PatientController.class
+com\rikkeiedu\patientservice\controller\WelcomeController.class
+com\rikkeiedu\pharmacyservice\event\OrderEvent.class
+com\rikkeiedu\patientservice\repository\PatientRepository.class
+com\rikkeiedu\pharmacyservice\controller\InventoryController.class
+com\rikkeiedu\pharmacyservice\PharmacyServiceApplication.class
+com\rikkeiedu\pharmacyservice\service\InventoryService.class
+com\rikkeiedu\pharmacyservice\service\InvoiceService.class
+com\rikkeiedu\pharmacyservice\controller\OrderController.class
+com\rikkeiedu\pharmacyservice\controller\InvoiceController.class
+com\rikkeiedu\patientservice\entity\Patient.class
+com\rikkeiedu\pharmacyservice\service\InsuranceService.class
+com\rikkeiedu\pharmacyservice\controller\InsuranceController.class
+com\rikkeiedu\pharmacyservice\controller\BillController.class
